@@ -1,0 +1,26 @@
+.main{
+  display: flex;
+  justify-content: center;
+  height: 1000%;
+}
+.one{
+  width: 25%;
+  background-color: rgb(190, 228, 228);
+
+}
+
+.two{
+  width:70%;
+  background:rgb(0, 255, 255);
+  text-align: center;
+}
+
+.three{
+  width: 25%;
+  background-color: rgb(190, 228, 228);
+}
+
+.div{
+  height: 1000px;
+  rau\
+}
